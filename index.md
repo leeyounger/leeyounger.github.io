@@ -1,7 +1,7 @@
 ### hello world!
 hello world!
 
-[Linux](/Linux)
+[Linux](/Linux.md)
 OpenSCADA
 MySQL
 VNC
